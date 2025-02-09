@@ -1,0 +1,9 @@
+Why Linked List instead of arrays???
+
+1) Array has fixed size, so we can't modify it, whereas ll hasn't, so we can.
+2) In array memory wastage may be seen, but in ll, it will not be happened.
+3) Can grow and shrink at runtime
+4) Array=static, but ll=dynamic, so best for security
+
+2203 2204 2205 2206
+2323 1432 4534 2432

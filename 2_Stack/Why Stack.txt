@@ -1,0 +1,17 @@
+Advantages of Stack:
+
+*) Simplicity
+*) Efficiency O(1)
+*) Last-in, First-out
+*) Limited memory usage
+
+Disadvantages of Stack:
+
+*) Limited access 
+*) potential for overflow
+*) Not suiable for random access*
+*) Limited capacity
+
+Stack in-built function:
+
+push, pop, top/peek, empty, size
